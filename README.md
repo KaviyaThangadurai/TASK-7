@@ -1,2 +1,2 @@
-# TASK-7 & 8
+# TASK-7
 Assignment
